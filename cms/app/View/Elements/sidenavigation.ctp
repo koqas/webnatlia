@@ -1,1 +1,0 @@
-<?php echo $this->requestAction("/Template/Sidebar",array("return"))?>
