@@ -1,0 +1,2 @@
+[16-Nov-2014 23:14:32 Asia/Kuala_Lumpur] PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 82 of 7545 bytes in /home/natliako/public_html/cms/lib/Cake/Cache/Engine/FileEngine.php on line 196
+[20-Nov-2014 04:51:25 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'AppController' not found in /home/natliako/public_html/cms/app/Controller/HomeController.php on line 3
